@@ -1,5 +1,5 @@
 package cn.xb.entity;
-
+//update
 public class User {
 	private int id;
 	private String name;
