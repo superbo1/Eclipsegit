@@ -1,7 +1,9 @@
 package cn.xb.dao;
 
 import cn.xb.entity.User;
-//µÂÂêÎ÷ÑÇ
+//ÂµÃ‚Ã‚ÃªÃŽÃ·Ã‘Ã‡
+//hello word
+//ä½ å¥½ä¸–ç•Œ
 public interface StudentDao {
 	int selectUserCount(User user);
 	
