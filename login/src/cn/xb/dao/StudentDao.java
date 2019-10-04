@@ -4,7 +4,7 @@ import cn.xb.entity.User;
 
 public interface StudentDao {
 
-	//sdadasdasdasdasdas
+	//sdadasdasdasdasdassd
 	int selectUserCount(User user);
 
 	boolean addUser(User user);
