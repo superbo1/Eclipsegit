@@ -6,11 +6,11 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
 import cn.xb.entity.User;
-
+//测试IDEA 上传到远程服务器
 public class StudentDaoImpl implements StudentDao{
 	private static final String url="jdbc:mysql://localhost:3306/smproject";
 	private static final String user1="root";
-	private static final String password="123";
+	private static final String password="123456";
 	int count = -1;
 	@Override
 	public int selectUserCount(User user) {
